@@ -7,9 +7,6 @@ const Profile = function() {
         <div className="row content-body">
             <div className="col-0 col-lg-3">
                 <img src={pic} alt="profile pic" className="profile-pic d-none d-lg-block"/>
-                    {/* <p>I am a new web developer trained in producing full-stack web applications, from front-end HTML, CSS and Javascript to Express server and databases.</p>
-                    <p>My GitHub profile can be found <a href="https://github.com/RyanEllingson">here</a></p>
-                    <p>My LinkedIn profile can be found <a href="https://linkedin.com/in/ryan-ellingson-25171614">here</a></p> */}
             </div>
             <div className="col-12 col-lg-9">
                 <p>My name is Ryan Ellingson.  I am a former chemical engineer who became a web developer because I enjoy solving technical problems and creating things with my own hands.</p>

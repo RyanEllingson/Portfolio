@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "title": "Game Realm",
+        "group": true,
+        "github": "https://github.com/RyanEllingson/nurd",
+        "deployed": "https://nurd-game-realm.netlify.com/",
+        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/game-realm-screenshot.JPG",
+        "description": "Game Realm is a full-stack React application with authentication in which users can create a group dedicated to playing a certain game, join an existing group, or delete a group, as well as see all groups which they have joined.  To test out the app you can either register as a new user or simply use the email 'test@test.com' and password 'password'",
+        "tech": "React, JavaScript, Node, Express, MongoDB, Mongoose, Passport, Axios, Mocha, Chai"
+    },
+    {
+        "id": 2,
+        "title": "Busi",
+        "group": true,
+        "github": "https://github.com/RyanEllingson/Busi",
+        "deployed": "https://ryan-busi.herokuapp.com/index.html",
+        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/busi-screenshot.JPG",
+        "description": "Busi is a full-stack application designed for a small business enabling them to manage customers, sales orders, invoices, and payments",
+        "tech": "JavaScript, Node, Express, MySQL, Sequelize, Jest"
+    },
+    {
+        "id": 3,
+        "title": "Brew Cruze",
+        "group": true,
+        "github": "https://github.com/RyanEllingson/Squirtle-Squad",
+        "deployed": "https://ryanellingson.github.io/Squirtle-Squad/",
+        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/brew-cruze-screenshot.JPG",
+        "description": "Brew Cruze is an app in which the user enters a number of cities, then the app generates a MapQuest route with turn-by-turn directions, and also generates a list of breweries near each of those cities.  The user then selects the breweries they would like to visit, then a new route is generated passing through each of the breweries along with the cities",
+        "tech": "JavaScript, Axios"
+    },
+    {
+        "id": 4,
+        "title": "Weather Dashboard",
+        "group": false,
+        "github": "https://github.com/RyanEllingson/Weather-Dashboard",
+        "deployed": "https://ryanellingson.github.io/Weather-Dashboard/",
+        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/weather-dashboard-snip.JPG",
+        "description": "The Weather Dashboard allows the user to search for a city and display the current weather conditions there, along with a 5-day forecast.  Previous cities the user has searched for are saved in local storage, and a button is generated for each previous search allowing the user to easily get the weather for that city again",
+        "tech": "HTML, CSS, JavaScript, Axios"
+    },
+    {
+        "id": 5,
+        "title": "React Firebase To-do",
+        "group": false,
+        "github": "https://github.com/RyanEllingson/React-Firebase-Todo",
+        "deployed": "https://react-firebase-todo-ec1d6.firebaseapp.com/",
+        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/react-firebase-todo-screenshot.JPG",
+        "description": "A full stack React app connected to a Firebase database that allows the user to save notes to the database, view all existing notes, and delete notes when no longer needed",
+        "tech": "React, JavaScript, CSS, Firebase, Moment.js"
+    }
+]
