@@ -2,11 +2,15 @@ import React from 'react';
 import Container from "./components/Container";
 import './App.css';
 
+import { Page } from "./page/page";
+
 function App() {
   return (
-    <div className="App">
-      <Container />
-    </div>
+    <Page>
+      <div className="App">
+        <Container />
+      </div>
+    </Page>
   );
 }
 
