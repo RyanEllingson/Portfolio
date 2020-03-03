@@ -2,3 +2,7 @@
     color: white;
     cursor: pointer;
 }
+
+a:hover {
+    color: rgb(165, 252, 106);
+}
