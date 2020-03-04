@@ -7,8 +7,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-image: url(./assets/images/leaves-pattern/leaves-pattern.png);
   background-repeat: repeat;
-  position: absolute;
-  background: cover;
 }
 
 code {
