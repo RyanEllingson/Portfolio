@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 
-export const PageContext = React.createContext("page");
+export const PageContext = React.createContext();
 
 export function usePage() {
     const [page, setPage] = useState("profile");

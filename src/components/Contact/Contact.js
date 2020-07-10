@@ -8,7 +8,7 @@ const Contact = function() {
                 <p>My email address is <a href="mailto:ellin150@umn.edu">ellin150@umn.edu</a></p>
                 <p>My GitHub can be found at <a href="https://github.com/RyanEllingson">https://github.com/RyanEllingson</a></p>
                 <p>My LinkedIn can be found at <a href="https://linkedin.com/in/ryan-ellingson-25171614">https://linkedin.com/in/ryan-ellingson-25171614</a></p>
-                <p>Click <a href="https://drive.google.com/file/d/1jafoyRBXVvxmNkw03QkHCv_QUZP-7XUy/view?usp=sharing">here</a> to view my resume</p>
+                <p>Click <a href="https://drive.google.com/file/d/1PRI13bmWAd9yA8bW1YEklkKKviG9aUNc/view?usp=sharing">here</a> to view my resume</p>
             </div>
         </div>
     );
