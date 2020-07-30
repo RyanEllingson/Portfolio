@@ -1,6 +1,6 @@
 [
     {
-        "id": 6,
+        "id": 1,
         "title": "Final Fantasy XIV Gathering Companion",
         "group": false,
         "github": "https://github.com/RyanEllingson/ffxiv-gathering-companion",
@@ -8,16 +8,6 @@
         "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/ffxiv-gc-screenshot.JPG?raw=true",
         "description": "Final Fantasy XIV Gathering Companion is a full-stack React application with authentication that allows users to see the in-game time, search for gatherable items, and create alarms letting them know when items are available to be gathered.  To test out the app you can either register as a new user or use the email 'test@test.com' and password 'password'",
         "tech": "React, JavaScript, Node, Express, MySQL, Axios, Jest, Cookie-Session, Moment.js, HTML, CSS"
-    },
-    {
-        "id": 1,
-        "title": "Game Realm",
-        "group": true,
-        "github": "https://github.com/RyanEllingson/nurd",
-        "deployed": "https://nurd-game-realm.netlify.com/",
-        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/game-realm-screenshot.JPG?raw=true",
-        "description": "Game Realm is a full-stack React application with authentication in which users can create a group dedicated to playing a certain game, join an existing group, or delete a group, as well as see all groups which they have joined.  To test out the app you can either register as a new user or simply use the email 'test@test.com' and password 'password'",
-        "tech": "React, JavaScript, Node, Express, MongoDB, Mongoose, Passport, Axios, Mocha, Chai"
     },
     {
         "id": 2,
