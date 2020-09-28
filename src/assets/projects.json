@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "title": "Maven Banking Application",
+        "group": false,
+        "github": "https://github.com/RyanEllingson/maven-banking-app",
+        "deployed": "https://maven-banking-app.herokuapp.com/home",
+        "screenshot": "https://github.com/RyanEllingson/maven-banking-app/blob/master/src/main/resources/screenshots/screenshot3.JPG?raw=true",
+        "description": "The Maven Banking Application is a full stack Java web application that simulates an application used by a bank to manage customers and accounts, as well as provide a user interface for customers and employees to interact with the system.",
+        "tech": "Java, Maven, PostgreSQL, JavaScript, Axios, HTML, CSS"
+    },
+    {
+        "id": 2,
         "title": "Final Fantasy XIV Gathering Companion",
         "group": false,
         "github": "https://github.com/RyanEllingson/ffxiv-gathering-companion",
@@ -10,7 +20,7 @@
         "tech": "React, JavaScript, Node, Express, MySQL, Axios, Jest, Cookie-Session, Moment.js, HTML, CSS"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Busi",
         "group": true,
         "github": "https://github.com/RyanEllingson/Busi",
@@ -20,7 +30,7 @@
         "tech": "JavaScript, Node, Express, MySQL, Sequelize, Jest"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Brew Cruze",
         "group": true,
         "github": "https://github.com/RyanEllingson/Squirtle-Squad",
@@ -30,7 +40,7 @@
         "tech": "JavaScript, Axios"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Weather Dashboard",
         "group": false,
         "github": "https://github.com/RyanEllingson/Weather-Dashboard",
@@ -38,15 +48,5 @@
         "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/weather-dashboard-snip.JPG?raw=true",
         "description": "The Weather Dashboard allows the user to search for a city and display the current weather conditions there, along with a 5-day forecast.  Previous cities the user has searched for are saved in local storage, and a button is generated for each previous search allowing the user to easily get the weather for that city again",
         "tech": "HTML, CSS, JavaScript, Axios"
-    },
-    {
-        "id": 5,
-        "title": "React Firebase To-do",
-        "group": false,
-        "github": "https://github.com/RyanEllingson/React-Firebase-Todo",
-        "deployed": "https://react-firebase-todo-ec1d6.firebaseapp.com/",
-        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/react-firebase-todo-screenshot.JPG?raw=true",
-        "description": "A full stack React app connected to a Firebase database that allows the user to save notes to the database, view all existing notes, and delete notes when no longer needed",
-        "tech": "React, JavaScript, CSS, Firebase, Moment.js"
     }
 ]
