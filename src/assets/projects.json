@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "title": "Crypto Tracker",
+        "group": true,
+        "github": "https://github.com/RyanEllingson/Crypto-Tracker",
+        "deployed": "https://ryan-crypto-tracker.herokuapp.com/",
+        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/cryptotracker-screenshot.JPG?raw=true",
+        "description": "Crypto Tracker is an application that allows users to see what cryptocurrencies are being traded on the market, track their current price and price over time, and add specific currencies to their 'portfolio' allowing them to easily monitor only those currencies they are interested in.  To test out the app you can create a new account, or use username 'test' and password 'test'.",
+        "tech": "Java, Maven, PostgreSQL, Angular, Plotly"
+    },
+    {
+        "id": 2,
         "title": "Maven Banking Application",
         "group": false,
         "github": "https://github.com/RyanEllingson/maven-banking-app",
@@ -10,7 +20,7 @@
         "tech": "Java, Maven, PostgreSQL, JavaScript, Axios, HTML, CSS"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Final Fantasy XIV Gathering Companion",
         "group": false,
         "github": "https://github.com/RyanEllingson/ffxiv-gathering-companion",
@@ -20,7 +30,7 @@
         "tech": "React, JavaScript, Node, Express, MySQL, Axios, Jest, Cookie-Session, Moment.js, HTML, CSS"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Busi",
         "group": true,
         "github": "https://github.com/RyanEllingson/Busi",
@@ -30,7 +40,7 @@
         "tech": "JavaScript, Node, Express, MySQL, Sequelize, Jest"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Brew Cruze",
         "group": true,
         "github": "https://github.com/RyanEllingson/Squirtle-Squad",
@@ -40,7 +50,7 @@
         "tech": "JavaScript, Axios"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Weather Dashboard",
         "group": false,
         "github": "https://github.com/RyanEllingson/Weather-Dashboard",
