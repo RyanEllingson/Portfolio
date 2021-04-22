@@ -1,6 +1,16 @@
 [
     {
         "id": 1,
+        "title": "Java React Todo",
+        "group": false,
+        "github": "https://github.com/RyanEllingson/java-react-todo",
+        "deployed": "https://java-react-todo.herokuapp.com/",
+        "screenshot": "https://github.com/RyanEllingson/java-react-todo/raw/master/src/main/resources/Screenshot8.JPG",
+        "description": "Full stack Java/React app with a PostgreSQL database featuring password salting and hashing, JWT authentication, and login-via-email functionality. CI/CD using Travis CI and Heroku.",
+        "tech": "Java, Maven, PostgreSQL, JavaScript, React, React-Router, Axios, Java Mail, JJWT, JUnit, Travis CI"
+    },
+    {
+        "id": 2,
         "title": "Crypto Tracker",
         "group": true,
         "github": "https://github.com/RyanEllingson/Crypto-Tracker",
@@ -10,7 +20,7 @@
         "tech": "Java, Maven, PostgreSQL, Angular, Plotly"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "Maven Banking Application",
         "group": false,
         "github": "https://github.com/RyanEllingson/maven-banking-app",
@@ -20,43 +30,33 @@
         "tech": "Java, Maven, PostgreSQL, JavaScript, Axios, HTML, CSS"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Final Fantasy XIV Gathering Companion",
         "group": false,
         "github": "https://github.com/RyanEllingson/ffxiv-gathering-companion",
         "deployed": "https://ffxiv-gathering-companion.herokuapp.com/",
         "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/ffxiv-gc-screenshot.JPG?raw=true",
         "description": "Final Fantasy XIV Gathering Companion is a full-stack React application with authentication that allows users to see the in-game time, search for gatherable items, and create alarms letting them know when items are available to be gathered.  To test out the app you can either register as a new user or use the email 'test@test.com' and password 'password'",
-        "tech": "React, JavaScript, Node, Express, MySQL, Axios, Jest, Cookie-Session, Moment.js, HTML, CSS"
+        "tech": "React, JavaScript, Node.js, Express, MySQL, Axios, Jest, Cookie-Session, Moment.js, HTML, CSS"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Busi",
         "group": true,
         "github": "https://github.com/RyanEllingson/Busi",
         "deployed": "https://ryan-busi.herokuapp.com/index.html",
         "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/busi-screenshot.JPG?raw=true",
         "description": "Busi is a full-stack application designed for a small business enabling them to manage customers, sales orders, invoices, and payments",
-        "tech": "JavaScript, Node, Express, MySQL, Sequelize, Jest"
-    },
-    {
-        "id": 5,
-        "title": "Brew Cruze",
-        "group": true,
-        "github": "https://github.com/RyanEllingson/Squirtle-Squad",
-        "deployed": "https://ryanellingson.github.io/Squirtle-Squad/",
-        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/brew-cruze-screenshot.JPG?raw=true",
-        "description": "Brew Cruze is an app in which the user enters a number of cities, then the app generates a MapQuest route with turn-by-turn directions, and also generates a list of breweries near each of those cities.  The user then selects the breweries they would like to visit, then a new route is generated passing through each of the breweries along with the cities",
-        "tech": "JavaScript, Axios"
+        "tech": "JavaScript, Node.js, Express, MySQL, Sequelize, Jest"
     },
     {
         "id": 6,
-        "title": "Weather Dashboard",
+        "title": "Team Profile Generator",
         "group": false,
-        "github": "https://github.com/RyanEllingson/Weather-Dashboard",
-        "deployed": "https://ryanellingson.github.io/Weather-Dashboard/",
-        "screenshot": "https://github.com/RyanEllingson/Portfolio/blob/master/src/assets/images/weather-dashboard-snip.JPG?raw=true",
-        "description": "The Weather Dashboard allows the user to search for a city and display the current weather conditions there, along with a 5-day forecast.  Previous cities the user has searched for are saved in local storage, and a button is generated for each previous search allowing the user to easily get the weather for that city again",
-        "tech": "HTML, CSS, JavaScript, Axios"
+        "github": "https://github.com/RyanEllingson/Team-Profile-Generator",
+        "deployed": null,
+        "screenshot": "https://github.com/RyanEllingson/Team-Profile-Generator/blob/master/assets/images/html-screenshot.JPG?raw=true",
+        "description": "The Team Profile Generator is a command-line-input application run in Node.js that requests information from the user about members of an engineering team and generates an HTML file displaying that information.",
+        "tech": "JavaScript, Node.js, Inquirer, FS, Jest"
     }
 ]
